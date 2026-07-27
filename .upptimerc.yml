@@ -2,8 +2,10 @@ owner: vaishnavvijay-prog
 repo: dashverge-status
 
 sites:
-  - name: Dashverge website
+  - name: Website
     url: https://dashverge.com
+  - name: API
+    url: https://dashverge.com/api/access
 
 status-website:
   baseUrl: /dashverge-status
