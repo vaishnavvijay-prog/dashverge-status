@@ -4,20 +4,7 @@ repo: dashverge-status
 sites:
   - name: Dashverge website
     url: https://dashverge.com
-  - name: Dashverge Trust Center
-    url: https://dashverge-trust-center-djvep.ondigitalocean.app
 
 status-website:
   baseUrl: /dashverge-status
-  logoUrl: https://dashverge.com/assets/favicon.svg
   name: Dashverge
-  introTitle: "Dashverge system status"
-  introMessage: "Your whole go-to-market team, now agentic. Live availability for Dashverge services, checked automatically every 5 minutes."
-  theme: light
-  navbar:
-    - title: Status
-      href: /
-    - title: Trust Center
-      href: https://dashverge-trust-center-djvep.ondigitalocean.app
-    - title: Website
-      href: https://dashverge.com
