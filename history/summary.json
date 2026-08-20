@@ -6,15 +6,15 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "97.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1770,
-    "timeDay": 145,
-    "timeWeek": 1498,
-    "timeMonth": 1770,
-    "timeYear": 1770,
+    "time": 1720,
+    "timeDay": 414,
+    "timeWeek": 1285,
+    "timeMonth": 1720,
+    "timeYear": 1720,
     "dailyMinutesDown": {
       "2026-08-18": 36
     }
@@ -26,15 +26,15 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "97.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 731,
-    "timeDay": 79,
-    "timeWeek": 553,
-    "timeMonth": 731,
-    "timeYear": 731,
+    "time": 711,
+    "timeDay": 183,
+    "timeWeek": 476,
+    "timeMonth": 711,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2026-08-18": 36
     }
