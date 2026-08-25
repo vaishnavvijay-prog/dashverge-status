@@ -4,20 +4,20 @@
     "url": "https://dashverge.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashverge.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 1484,
-    "timeDay": 895,
-    "timeWeek": 391,
-    "timeMonth": 1484,
-    "timeYear": 1484,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1511,
+    "timeDay": 1399,
+    "timeWeek": 615,
+    "timeMonth": 1511,
+    "timeYear": 1511,
     "dailyMinutesDown": {
       "2026-08-18": 36,
-      "2026-08-25": 0
+      "2026-08-25": 28
     }
   },
   {
